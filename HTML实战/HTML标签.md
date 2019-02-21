@@ -145,7 +145,7 @@ input的几个用法,结合下面的图and**自己操作一下**。
 
 ### table标签
 ```
- <table>
+<table>
    <thead>
     <tr>
       <th></th><th>姓名</th><th>班级</th><th>分数</th>
@@ -170,3 +170,6 @@ table thead tfoot 每个里面都可以有th就是表格的标题，图中加粗
 ![](https://i.loli.net/2019/02/21/5c6e808d1b333.png)
 
 **一定要自己写试试**
+**一定要自己写试试**
+**一定要自己写试试**
+
